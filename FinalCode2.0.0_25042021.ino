@@ -19,7 +19,7 @@
 WiFiClient client;
 
 #include <BlynkSimpleEsp8266.h>
-char auth[] = "v_yAojeNsq956aNj8yXyAbQscoG2Hh1P";
+char auth[] = "xxxxxxxxxxx";
 char ssid[] = "ABCD";
 char pass[] = "Airtel@123";
 
